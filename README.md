@@ -28,7 +28,6 @@ Converging complex systems into reliable operations.
 
 ### [Kubernetes Multi-Cluster AIOps Platform](https://github.com/guiyi-labs/aiops-platform)
 
-[![CI](https://github.com/guiyi-labs/aiops-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/guiyi-labs/aiops-platform/actions/workflows/ci.yml)
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.34-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
