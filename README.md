@@ -47,19 +47,13 @@ Converging complex systems into reliable operations.
 </div>
 
 <details>
-<summary><b>更多功能截图 / More Screenshots</b></summary>
+<summary><b>智能诊断 · 真实案例截图 / Diagnosis — Real Cases</b></summary>
 
 <div align="center">
 
-<a href="https://github.com/guiyi-labs/aiops-platform"><img src="assets/aiops-monitoring.png" alt="监控大盘 — Prometheus 指标、节点与工作负载资源使用率" width="100%"></a>
+<a href="https://github.com/guiyi-labs/aiops-platform"><img src="assets/aiops-diagnosis.png" alt="智能诊断 — OOMKilled、CrashLoopBackOff、Deployment 不可用等真实故障案例" width="100%"></a>
 
-<sub>监控大盘 · Prometheus 指标采集、节点与工作负载资源使用率</sub>
-
-<br><br>
-
-<a href="https://github.com/guiyi-labs/aiops-platform"><img src="assets/aiops-diagnosis.png" alt="智能诊断 — 证据型根因分析与受控修复建议" width="100%"></a>
-
-<sub>智能诊断 · 证据型根因分析、规则引擎与受控修复建议</sub>
+<sub>智能诊断 · 证据型根因分析 — OOMKilled / CrashLoopBackOff / Deployment 副本不可用等真实故障案例，含严重等级、剩余时间与根因规则</sub>
 
 </div>
 
