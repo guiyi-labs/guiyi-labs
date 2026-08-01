@@ -38,7 +38,32 @@ Converging complex systems into reliable operations.
 
 面向中小规模 Kubernetes 环境的**多集群可观测、证据型故障诊断与受控运维平台**。从 M1 到 M60，历经 60 个里程碑的迭代，覆盖多集群管理、故障诊断、受控运维、GitOps 交付、供应链安全与 AI 辅助分析的完整能力链路。
 
-[![Kubernetes AIOps dashboard](assets/aiops-dashboard.png)](https://github.com/guiyi-labs/aiops-platform)
+<div align="center">
+
+<a href="https://github.com/guiyi-labs/aiops-platform"><img src="assets/aiops-dashboard.png" alt="AIOps 总览控制台 — 多集群资源、事件流与诊断概览" width="100%"></a>
+
+<sub>总览控制台 · 多集群资源编排、实时事件流与故障诊断概览</sub>
+
+</div>
+
+<details>
+<summary><b>更多功能截图 / More Screenshots</b></summary>
+
+<div align="center">
+
+<a href="https://github.com/guiyi-labs/aiops-platform"><img src="assets/aiops-monitoring.png" alt="监控大盘 — Prometheus 指标、节点与工作负载资源使用率" width="100%"></a>
+
+<sub>监控大盘 · Prometheus 指标采集、节点与工作负载资源使用率</sub>
+
+<br><br>
+
+<a href="https://github.com/guiyi-labs/aiops-platform"><img src="assets/aiops-diagnosis.png" alt="智能诊断 — 证据型根因分析与受控修复建议" width="100%"></a>
+
+<sub>智能诊断 · 证据型根因分析、规则引擎与受控修复建议</sub>
+
+</div>
+
+</details>
 
 <details>
 <summary><b>核心能力一览 / Core Capabilities</b></summary>
