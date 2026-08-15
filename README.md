@@ -26,7 +26,8 @@
 <p align="center">
   <a href="https://github.com/guiyi-labs/aiops-platform">Flagship Project</a> &middot;
   <a href="https://github.com/guiyi-labs/aiops-platform/releases">Releases</a> &middot;
-  <a href="https://github.com/guiyi-labs/aiops-platform/blob/main/docs/README.md">Engineering Docs</a>
+  <a href="https://github.com/guiyi-labs/aiops-platform/blob/main/docs/README.md">Engineering Docs</a> &middot;
+  <a href="https://guiyi-labs.github.io">🌐 Portfolio Site</a>
 </p>
 
 <p align="center">
