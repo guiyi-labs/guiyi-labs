@@ -30,8 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiyi-labs&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiyi-labs&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/guiyi-labs?style=flat-square&label=Followers&color=586069" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/guiyi-labs?style=flat-square&label=Stars&color=586069" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/guiyi-labs?style=flat-square&label=Public%20Repos&color=586069" alt="Repos" />
 </p>
 
 ---
